@@ -1,5 +1,5 @@
 
-    /* heading section */
+  /* heading section */
 
  .header{
      background-color: #f7d6dd;
@@ -21,7 +21,7 @@
 }
 
 
-/* Left-text */
+/* Left-text area*/
 .main-heading
 {
     font-size: 30px;
@@ -35,4 +35,44 @@
     background-color: #E55473;
     color: white;
     font-size: 20px;
+}
+
+/* 2nd page title */
+
+    .ourtitle{
+
+    margin-top: 50px;
+        text-align: center;
+}
+/* shape section */
+
+.first{
+width: 464px;
+height: 605px;
+background-color: red;
+border-top-left-radius: 250px;
+border-top-right-radius: 250px;
+}
+.second{
+    width: 464px;
+    height: 605px;
+    background-color: blue;
+    border-top-left-radius: 250px;
+    border-top-right-radius: 250px;
+    
+}
+.third{
+    width: 464px;
+    height: 605px;
+    background-color:rgb(243, 243, 0);
+    border-top-left-radius: 250px;
+    border-top-right-radius: 250px;
+
+}
+.shape{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 250px;
+
 }
