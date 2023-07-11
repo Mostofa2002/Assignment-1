@@ -3,7 +3,7 @@
 
  .header{
         background-color: rgba(229, 84, 115, 0.10);
-        height: 100vh;
+        /* height: 100vh; */
     }
 *{
     padding:0;
@@ -28,7 +28,7 @@
 }
 
 .btn{  
-    width: 177px;
+    width: 150px;
     height: 64px;
     border: 0;
     border-radius: 15px;
@@ -95,7 +95,7 @@ align-items: center;
 list-style: none;
 text-align: center;
 margin-top: 75px;
-padding-left: 150px;
+padding-left: 175px;
 padding-right: 150px;
 
 }
@@ -105,12 +105,24 @@ padding-right: 150px;
 
 .middle-section{
     
-    background-color: #f1aece;
+    background-color: #e6bdd1;
     margin-top: 150px;
     display: flex;
    
 }
 .middle-img{
+    padding-left: 200px;
+}
+ /* fourth page  */
 
-    padding-left: 100px;
+.fourth-text {
+    
+    text-align: center;
+     margin-top: 100px;
+}
+.fourth-img{
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+    gap: 25px;
 }
