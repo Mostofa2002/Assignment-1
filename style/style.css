@@ -1,6 +1,12 @@
 
   /* heading section */
 
+body{
+    font-family: 'Lato', sans-serif;
+    
+}
+
+
  .header{
         background-color: rgba(229, 84, 115, 0.10);
         /* height: 100vh; */
@@ -192,9 +198,9 @@ textarea{
     font-size: 14px;
     border-radius: 9px;
     background: #FFF;
-     border: 0;
+    border: 0;
     width: 70%;
-    margin-right: 10px;
+    
     justify-content: center;
 
 }
