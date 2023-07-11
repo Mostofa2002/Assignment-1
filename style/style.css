@@ -50,7 +50,7 @@
 
 .first{
     width: 550px;
-    height: 700px;
+    height: 600px;
 background-color: #f099c3;
 border-top-left-radius: 250px;
 border-top-right-radius: 250px;
@@ -59,7 +59,7 @@ align-items: center;
 }
 .second{
     width: 550px;
-    height: 700px;
+    height: 600px;
     background-color: rgb(127, 127, 209);
     border-top-left-radius: 250px;
     border-top-right-radius: 250px;
@@ -67,7 +67,7 @@ align-items: center;
 }
 .third{
     width: 550px;
-    height: 700px;
+    height: 600px;
     background-color:rgb(233, 233, 148);
     border-top-left-radius: 250px;
     border-top-right-radius: 250px;
@@ -128,6 +128,21 @@ padding-right: 150px;
 }
 
 
+/* fifth-page  */
 
+.input{
 
+    height: 64px; 
+    width: 700px; 
+    background-color: rgb(202, 20, 20); 
+    border: 0;
+    border-radius: 10px;
+    color: white;
+    
+}
 
+.fifth-page{
+    display: flex;
+    align-items: center;
+    
+}
