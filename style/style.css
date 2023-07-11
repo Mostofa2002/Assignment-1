@@ -2,7 +2,7 @@
   /* heading section */
 
  .header{
-     background-color: #f7d6dd;
+        background-color: rgba(229, 84, 115, 0.10);
         height: 100vh;
     }
 *{
@@ -35,6 +35,7 @@
     background-color: #E55473;
     color: white;
     font-size: 20px;
+    font-weight: 700;
 }
 
 /* 2nd page title */
@@ -84,4 +85,32 @@ align-items: center;
      justify-content: space-between;
      list-style: none;
      display: flex;
+}
+ 
+
+
+/* middle page  */
+
+.middle-text{
+list-style: none;
+text-align: center;
+margin-top: 75px;
+padding-left: 150px;
+padding-right: 150px;
+
+}
+
+
+
+
+.middle-section{
+    
+    background-color: #f1aece;
+    margin-top: 150px;
+    display: flex;
+   
+}
+.middle-img{
+
+    padding-left: 100px;
 }
